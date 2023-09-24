@@ -23,7 +23,7 @@ The primary goals of this project are:
 
 ## Motivation
 
-The Guessing-Game project was born out of a passion for both programming and gaming. It serves as an example of how programming can be used to create interactive and entertaining applications. By sharing this project with the community, we hope to inspire others to explore the world of game development and foster a love for coding.
+The Guessing-Game project was born out of a passion for both programming and gaming. It serves as an example of how programming can be used to create interactive and entertaining applications. By sharing this project with the community, I hope to inspire others to explore the world of game development and foster a love for coding.
 
 
 ## Basic Mode
