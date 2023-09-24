@@ -8,6 +8,7 @@ The Guessing-Game is a fun and interactive Python project designed to challenge 
 - [Basic Mode](#basic-mode)
 - [Advanced Mode](#advanced-mode)
 - [How to Run](#how-to-run)
+- [Screenshorts](#screenshorts)
 
 
 ## Project Goals
@@ -71,3 +72,16 @@ To enjoy the Python Guessing Game, follow these steps:
    python GuessingGame_Advanced.py
 
 4. Follow the on-screen instructions to guess the number and enjoy the game!
+
+
+## Screenshorts
+
+### Basic Mode
+
+![1 1](https://github.com/Ishika63/Guessing-Game/assets/80192358/5a43c368-70fb-47b3-93a0-93259060b94f)
+
+
+### Advanced Mode
+
+![1 2](https://github.com/Ishika63/Guessing-Game/assets/80192358/e6c12753-462b-4289-be75-97930cf59f98)
+
