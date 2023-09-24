@@ -3,9 +3,28 @@
 The Guessing-Game is a fun and interactive Python project designed to challenge your guessing skills. It is suitable for both beginners and experienced programmers looking to enhance their Python skills. This project offers two different modes: **Basic** and **Advanced**.
 
 ## Table of Contents
+- [Project Goals](#project-goals)
+- [Motivation](#motivation)
 - [Basic Mode](#basic-mode)
 - [Advanced Mode](#advanced-mode)
 - [How to Run](#how-to-run)
+
+
+## Project Goals
+
+The primary goals of this project are:
+
+- **Education:** To provide an educational resource for those learning Python, demonstrating essential concepts such as conditional statements, random number generation, and user input handling.
+
+- **Entertainment:** To create an enjoyable gaming experience that keeps players engaged and motivated to improve their guessing skills.
+
+- **Customization:** To offer two distinct game modes, catering to different levels of difficulty and player preferences.
+
+
+## Motivation
+
+The Guessing-Game project was born out of a passion for both programming and gaming. It serves as an example of how programming can be used to create interactive and entertaining applications. By sharing this project with the community, we hope to inspire others to explore the world of game development and foster a love for coding.
+
 
 ## Basic Mode
 
