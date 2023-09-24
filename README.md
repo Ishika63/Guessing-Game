@@ -1,14 +1,11 @@
 # Guessing-Game
 
-This project offers an exciting guessing game experience with two different modes: **Basic** and **Advanced**.
+The Guessing-Game is a fun and interactive Python project designed to challenge your guessing skills. It is suitable for both beginners and experienced programmers looking to enhance their Python skills. This project offers two different modes: **Basic** and **Advanced**.
 
 ## Table of Contents
 - [Basic Mode](#basic-mode)
 - [Advanced Mode](#advanced-mode)
 - [How to Run](#how-to-run)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Basic Mode
 
@@ -35,7 +32,7 @@ To enjoy the Python Guessing Game, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/Python-Guessing-Game.git
+   git clone https://github.com/Ishika63/Guessing-Game.git
 
 2. Navigate to the project directory:
 
